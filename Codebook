@@ -1,0 +1,14 @@
+This is a summary data set from a larger accelerometer study. There were 30 subjects, divided into a training set (21 people) and a test set
+(9 people). Identifying variables are
+
+Set (training or test)
+Subject (from 1-30; some subjects are in the training set, others in the test set--the numbers don't overlap)
+Activity.Name: one of the six tested activities:
+LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, and WALKING_UPSTAIRS
+
+There are five basic vector quantities being measured: BodyAcc, GravityAcc, BodyAccJerk, BodyGyro, BodyGyroJerk.
+For each of these, the X, Y, and Z components and the magnitude were computed in the time domain and the frequency domain.
+Each row of the table corresponds to a single subject doing a single activity.
+The values recorded in the other columns refer to the Mean and Stdev of each of the measured quantities over time or frequency.
+
+
